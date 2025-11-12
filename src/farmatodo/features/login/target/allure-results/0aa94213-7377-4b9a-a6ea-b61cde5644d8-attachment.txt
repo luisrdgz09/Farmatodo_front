@@ -1,8 +1,0 @@
-INFO     src.orbika.tasks.login.task_login:task_login.py:22 Variable de entorno FUNCTIONALITY ::login
-INFO     src.orbika.tasks.login.task_login:task_login.py:25 Variable de entorno FUNCTIONALITY cambiada temporalmente a 'login'
-DEBUG    src.orbika.factories.factory_scenario:factory_scenario.py:34 esto es module_part data_login
-DEBUG    src.orbika.factories.factory_scenario:factory_scenario.py:35 esto es scenario 90420_successful_login
-DEBUG    src.orbika.factories.factory_scenario:factory_scenario.py:40 esto es code 90420
-DEBUG    src.orbika.factories.factory_scenario:factory_scenario.py:42 esto es base_module src.resources.data.qa.login
-ERROR    src.orbika.factories.factory_scenario:factory_scenario.py:60 Error al cargar el escenario 'data_login_90420_successful_login': No module named 'src.resources.data'
-INFO     src.orbika.tasks.login.task_login:task_login.py:28 Variable de entorno FUNCTIONALITY restaurada a login
